@@ -1,0 +1,8 @@
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+
+.env
+
+nome_do_ambiente
